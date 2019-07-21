@@ -27,7 +27,7 @@
 #include <mutex>
 #include <thread>
 #include <vector>
-#inlcude <functional>
+#include <functional>
 
 namespace wasm {
 
